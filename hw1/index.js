@@ -36,7 +36,3 @@ function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv);
-//console.log(contacts.getContactById("8"));
-//console.log(contacts.listContacts());
-//console.log(contacts.removeContact("9"));
-//console.log(contacts.addContact("name", "email", "phone"));
